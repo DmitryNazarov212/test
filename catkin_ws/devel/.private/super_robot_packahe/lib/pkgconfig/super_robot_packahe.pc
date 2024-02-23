@@ -1,0 +1,8 @@
+prefix=/home/dmitry/catkin_ws/devel/.private/super_robot_packahe
+
+Name: super_robot_packahe
+Description: Description of super_robot_packahe
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,5 @@
+super_robot_packahe
+/home/dmitry/catkin_ws/devel/.private/super_robot_packahe/cmake.lock /home/dmitry/catkin_ws/devel/./cmake.lock
+/home/dmitry/catkin_ws/devel/.private/super_robot_packahe/lib/pkgconfig/super_robot_packahe.pc /home/dmitry/catkin_ws/devel/lib/pkgconfig/super_robot_packahe.pc
+/home/dmitry/catkin_ws/devel/.private/super_robot_packahe/share/super_robot_packahe/cmake/super_robot_packaheConfig.cmake /home/dmitry/catkin_ws/devel/share/super_robot_packahe/cmake/super_robot_packaheConfig.cmake
+/home/dmitry/catkin_ws/devel/.private/super_robot_packahe/share/super_robot_packahe/cmake/super_robot_packaheConfig-version.cmake /home/dmitry/catkin_ws/devel/share/super_robot_packahe/cmake/super_robot_packaheConfig-version.cmake
